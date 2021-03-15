@@ -1,0 +1,8 @@
+C:\_projects\_programming\_windows\StringGeneratorV4\StringGeneratorV4\bin\Debug\StringGeneratorV4.exe
+C:\_projects\_programming\_windows\StringGeneratorV4\StringGeneratorV4\bin\Debug\StringGeneratorV4.pdb
+C:\_projects\_programming\_windows\StringGeneratorV4\StringGeneratorV4\obj\x86\Debug\StringGeneratorV4.Main.resources
+C:\_projects\_programming\_windows\StringGeneratorV4\StringGeneratorV4\obj\x86\Debug\StringGeneratorV4.Properties.Resources.resources
+C:\_projects\_programming\_windows\StringGeneratorV4\StringGeneratorV4\obj\x86\Debug\StringGeneratorV4.csproj.GenerateResource.Cache
+C:\_projects\_programming\_windows\StringGeneratorV4\StringGeneratorV4\obj\x86\Debug\StringGeneratorV4.exe
+C:\_projects\_programming\_windows\StringGeneratorV4\StringGeneratorV4\obj\x86\Debug\StringGeneratorV4.pdb
+C:\_projects\_programming\_windows\StringGeneratorV4\StringGeneratorV4\obj\x86\Debug\StringGeneratorV4.csprojResolveAssemblyReference.cache
